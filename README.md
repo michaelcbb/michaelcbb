@@ -7,6 +7,8 @@
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelcbb&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcbb&layout=pie)](https://github.com/michaelcbb/github-readme-stats)
+
 ### technologies I use in my day
 
 <div style="display: inline_block"><br/>
